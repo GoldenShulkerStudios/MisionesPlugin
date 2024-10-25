@@ -1,0 +1,6 @@
+name: Misiones
+description: Este plugin fue creado por Golden Shulker Studios
+author: ewahv1
+main: me.ewahv1.plugin.Main
+version: 0.0.1
+api-version: 1.20

@@ -1,0 +1,6 @@
+name: ${name}
+description: ${description}
+author: ${author}
+main: ${mainClass}
+version: ${version}
+api-version: 1.20
